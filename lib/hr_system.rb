@@ -1,0 +1,2 @@
+module HrSystem
+end

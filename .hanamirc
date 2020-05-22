@@ -1,0 +1,3 @@
+project=hr_system
+test=rspec
+template=erb
